@@ -10,15 +10,17 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amazefcc233&count_private=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&labelColor=blue&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python&logoColor=fff)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)
 
+~~(只有一点点点点点点点)~~
 
 
 [“每个猫娘上辈子都是折翼的天使”](https://xn--i8s707m.xyz/)
 
 ----
 
-#### 你好，这里是来自（？）的Programmer，喵呜ww
+#### 你好，这里是来自水瓶瓶怀里（？）的Programmer（？），喵呜ww
 
 - [水瓶瓶](https://github.com/fantasyzhjk) 是我老公！
 - 闲下来会写写一些小机器人
