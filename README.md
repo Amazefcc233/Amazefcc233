@@ -29,12 +29,12 @@
 ```Python
 import moe.meow
 
-def main() {
+def main():
     info = "每个猫娘上辈子都是折翼的天使。"
     langs = ["Python", "Vue.js"]
 
     print("水瓶瓶是我老公!")
-}
+
 
 if __name__ == "__main__":
     main()
