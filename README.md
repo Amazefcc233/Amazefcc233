@@ -3,7 +3,7 @@
   <h3 align="center">
     <img src="https://a.ppy.sh/15134737?1567826431.jpeg" width="280"><br>
     <object>
-      你好，这里是来自<a href="https://github.com/fantasyzhjk">水瓶瓶</a>怀里（？）的Programmer（？）fcc，喵呜;w;
+      你好，这里是洛狼狼！
     </object>
   </h3>
 </a>
@@ -33,7 +33,7 @@ def main():
     info = "每个猫娘上辈子都是折翼的天使。"
     langs = ["Python", "Vue.js"]
 
-    print("水瓶瓶是我老公!")
+    print("Splatoon!")
 
 
 if __name__ == "__main__":
