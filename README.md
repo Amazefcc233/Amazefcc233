@@ -1,4 +1,3 @@
-~~又是抄作业的一天呢（x~~
 <a href="https://www.amazefcc233.com">
   <h3 align="center">
     <img src="https://a.ppy.sh/15134737?1567826431.jpeg" width="280"><br>
@@ -13,15 +12,8 @@
         <img alt="GitHub followers" 
              src="https://img.shields.io/github/followers/Amazefcc233?colorB=c9cbff&logo=Github&style=for-the-badge" />
     </a>
-    <!-- 推特不给看！
-    <a href="https://twitter.com/蒸羊羔蒸熊掌蒸鹿尾">
-        <img alt="Twitter Follow" 
-             src="https://img.shields.io/twitter/follow/yurinekowolf?colorB=c6aae8&label=Follow&logo=twitter&logoColor=white&style=for-the-badge">
-    </a>-->
-    <a href="https://www.amazefcc233.com">
-        <img alt="Visitor" 
-             src="https://visitor_badge.deta.dev/?pageID=Amazefcc233.Amazefcc233?labelColor=1e1e28&color=c9cbff&label=Visitors&style=for-the-badge">
-    </a>
+  <img src="https://img.shields.io/badge/-Python-blue?logo=Python&labelColor=blue&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js" />
 </div>
 
 <br>
@@ -38,33 +30,19 @@ def main():
 
 if __name__ == "__main__":
     main()
-``` 
+```
 
-<h4 align="center">
-<img src="https://img.shields.io/badge/-Python-blue?logo=Python&labelColor=blue&logoColor=fff&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js" />
-<br><br>
 <p align="center">
-  <a href="https://github.com/Amazefcc233">
-    <img align="center"
-         height="150em"
-         src="https://github-readme-stats.vercel.app/api?username=Amazefcc233&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117" />
-  </a>
-   
-  <a href="https://github.com/Amazefcc233">
-    <img align="center"
-         height="150em"
-         src="https://github-readme-streak-stats.herokuapp.com/?user=Amazefcc233&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
-  </a>
-  <a href="https://github.com/Amazefcc233">
-    <img align="center"
-         height="150em"
-         src="https://github-readme-stats.vercel.app/api/top-langs?username=Amazefcc233&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact&hide=html,scss,php"
-    />
-  </a>
-    <a href="https://github.com/Amazefcc233">
-    <img align="center"
-         height="150em"
-         src="https://activity-graph.herokuapp.com/graph?username=Amazefcc233&custom_title=My%20Activity%20Graph!&hide_border=true&bg_color=0D1117&line=fff&point=fff&theme=github" />
-  </a>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Amazefcc233&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs&count_private=true" />
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=Amazefcc233&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+<br/>
+<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Amazefcc233&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+<br/>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Amazefcc233&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amazefcc233&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 </p>
